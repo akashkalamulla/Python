@@ -8,3 +8,6 @@ class Puppy():
 
 marble = Puppy('Marble','teddy bear')
 marble.play()
+
+marble = Puppy('Onyx', 'lizard')
+marble.play()
